@@ -8,3 +8,4 @@ Visual Alert - The wearable has a set of three LEDs of different colors that lig
 
 Emergency Call - The wearable has an emergency call button, which if pressed would send a signal to notify a person that the user needs assistance. A separate device would receive that signal and display the ‘Help’ message.
 
+Disclaimer - I dont have the resource for the LED setup at the moment but I will update it soon!
